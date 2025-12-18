@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -32,6 +32,7 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -47,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_020000a1",
+    "visible_layers": "00000000_00000000_00000000_000000a5",
     "zone_display_mode": 0
   },
   "git": {
@@ -56,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "nkzy_wled_v4_4ch_kicad.kicad_prl",
+    "filename": "nkzy_wled_v41_4ch_kicad.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
